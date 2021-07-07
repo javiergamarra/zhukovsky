@@ -1,0 +1,41 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: rgba(9, 4, 54, 0.76);
+  font-size: 36px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: lightblue;
+}
+li {
+  color: rgba(14, 111, 223, 0.76);
+  text-decoration: underline;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  color: darkgreen;
+  font-size: 24px;
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  color: darkviolet;
+  font-size: 24px;
+}
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  color: red;
+  font-size: 24px;
+}
+table {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  border: 2px solid darkgreen;
+  background-color: antiquewhite;
+}
